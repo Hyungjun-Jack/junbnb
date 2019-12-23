@@ -130,3 +130,7 @@ dmypy.json
 
 #for MacOS
 .DS_Store
+
+#images
+*.png
+*.jpg
